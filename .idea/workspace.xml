@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d1a85e7-4e0b-4960-82e2-a331c545c827" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/challenge/mvc/SimpleMvcApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/challenge/mvc/model/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/challenge/mvc/service/TodoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/challenge/mvc/web/TodoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/csv/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/jdk17features/Auto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/jdk17features/ElectricAuto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/jdk17features/GasAuto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/jdk17features/HybridAuto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/jdk17features/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/jdk17features/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/json/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/tdd/JsonCsvConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;robertoctl&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/robertoctl/TechReady&quot;,
+    &quot;accountId&quot;: &quot;b4e761e7-9442-4408-b75a-a06f53f2d4fb&quot;
+  }
+}</component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="32ikLhLwv3p4IhTvZPkaI8dhLsV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.challenge.ooo.challenge.App.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.JsonCsvConverterTest.shouldParseJsonIntoCsvRow.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonCsvConverterTest.whenJsonIsEmpty_shouldThrowException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonCsvConverterTest.whenMissingFields_shouldThrowException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Main.shouldParseJsonIntoCsvRow.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/roberto.torres/Projects/TechReady/src/main/java/com/challenge/ooo/challenge&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/roberto.torres/Projects/TechReady/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/challenge/ooo/challenge" />
+      <recent name="$PROJECT_DIR$/src/jdk17features" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.challenge.ooo.challenge" />
+      <recent name="jdk17features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.challenge.ooo.challenge.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.challenge.ooo.App" />
+      <module name="TechReady" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challenge.ooo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.challenge.ooo.challenge.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.challenge.ooo.challenge.App" />
+      <module name="TechReady" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challenge.ooo.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonCsvConverterTest.whenJsonIsEmpty_shouldThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TechReady" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techready.challenge.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techready.challenge.tdd" />
+      <option name="MAIN_CLASS_NAME" value="com.techready.challenge.tdd.JsonCsvConverterTest" />
+      <option name="METHOD_NAME" value="whenJsonIsEmpty_shouldThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonCsvConverterTest.whenMissingFields_shouldThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TechReady" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techready.challenge.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techready.challenge.tdd" />
+      <option name="MAIN_CLASS_NAME" value="com.techready.challenge.tdd.JsonCsvConverterTest" />
+      <option name="METHOD_NAME" value="whenMissingFields_shouldThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MvcDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="TechReady" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.challenge.mvc.MvcDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleMvcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="TechReady" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.challenge.mvc.SimpleMvcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.challenge.ooo.challenge.App" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.JsonCsvConverterTest.whenJsonIsEmpty_shouldThrowException" />
+        <item itemvalue="JUnit.JsonCsvConverterTest.whenMissingFields_shouldThrowException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d1a85e7-4e0b-4960-82e2-a331c545c827" name="Changes" comment="" />
+      <created>1757910725738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757910725738</updated>
+      <workItem from="1757910726791" duration="14792000" />
+      <workItem from="1758482669898" duration="8033000" />
+      <workItem from="1758583559854" duration="2848000" />
+      <workItem from="1758918744718" duration="13803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
