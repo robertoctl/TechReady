@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d1a85e7-4e0b-4960-82e2-a331c545c827" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/challenge/mvc/SimpleMvcApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/challenge/mvc/model/Todo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/challenge/mvc/service/TodoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/challenge/mvc/web/TodoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/csv/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/jdk17features/Auto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/jdk17features/ElectricAuto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/jdk17features/GasAuto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/jdk17features/HybridAuto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/jdk17features/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/jdk17features/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/json/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/tdd/JsonCsvConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +202,7 @@
       <workItem from="1757910726791" duration="14792000" />
       <workItem from="1758482669898" duration="8033000" />
       <workItem from="1758583559854" duration="2848000" />
-      <workItem from="1758918744718" duration="13803000" />
+      <workItem from="1758918744718" duration="16560000" />
     </task>
     <servers />
   </component>
