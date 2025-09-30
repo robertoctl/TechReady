@@ -7,6 +7,7 @@
     <list default="true" id="9d1a85e7-4e0b-4960-82e2-a331c545c827" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +73,7 @@
     &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SimpleMvcApplication.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
@@ -102,7 +104,7 @@
       <recent name="jdk17features" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.challenge.ooo.challenge.App">
+  <component name="RunManager" selected="Spring Boot.SimpleMvcApplication">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.challenge.ooo.App" />
       <module name="TechReady" />
@@ -202,7 +204,7 @@
       <workItem from="1757910726791" duration="14792000" />
       <workItem from="1758482669898" duration="8033000" />
       <workItem from="1758583559854" duration="2848000" />
-      <workItem from="1758918744718" duration="16560000" />
+      <workItem from="1758918744718" duration="19279000" />
     </task>
     <servers />
   </component>
