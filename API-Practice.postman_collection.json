@@ -1,0 +1,153 @@
+{
+  "info": {
+    "name": "API Practice Collection",
+    "_postman_id": "a1111111-b222-4333-8444-555555555555",
+    "description": "Practice GET/POST/PUT/DELETE, params, headers, and JSON bodies",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "POST Submit",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "X-Student-Id",
+            "value": "{{studentId}}"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/api/submissions/{{exerciseId}}",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "submissions",
+            "{{exerciseId}}"
+          ]
+        },
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"title\": \"Scholar Sync\",\n  \"content\": \"My first POST\",\n  \"version\": 1\n}"
+        }
+      }
+    },
+    {
+      "name": "GET List by exercise & student",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/api/submissions?exerciseId={{exerciseId}}&studentId={{studentId}}",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "submissions"
+          ],
+          "query": [
+            {
+              "key": "exerciseId",
+              "value": "{{exerciseId}}"
+            },
+            {
+              "key": "studentId",
+              "value": "{{studentId}}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "PUT Update submission",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "X-Student-Id",
+            "value": "{{studentId}}"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/api/submissions/{{submissionId}}",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "submissions",
+            "{{submissionId}}"
+          ]
+        },
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"content\": \"Updated content\",\n  \"version\": 2\n}"
+        }
+      }
+    },
+    {
+      "name": "DELETE submission",
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/api/submissions/{{submissionId}}",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "submissions",
+            "{{submissionId}}"
+          ]
+        }
+      }
+    },
+    {
+      "name": "GET Admin Report",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/api/admin/report",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "admin",
+            "report"
+          ]
+        }
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8080"
+    },
+    {
+      "key": "studentId",
+      "value": "alice01"
+    },
+    {
+      "key": "exerciseId",
+      "value": "GS-01"
+    },
+    {
+      "key": "submissionId",
+      "value": "1"
+    }
+  ]
+}
