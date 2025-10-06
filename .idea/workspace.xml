@@ -5,54 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d1a85e7-4e0b-4960-82e2-a331c545c827" name="Changes" comment="Adding gitignore">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/challenge/api/ApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/challenge/api/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/challenge/api/RequestLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/challenge/api/RequestLogRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/challenge/api/SubmissionRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/challenge/api/UpdateRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/csv/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/csv/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/jdk17features/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/jdk17features/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/jdk17features/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/jdk17features/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/json/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/json/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/mvc/SimpleMvcApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/mvc/SimpleMvcApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/mvc/model/Todo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/mvc/model/Todo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/mvc/service/TodoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/mvc/service/TodoService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/mvc/web/TodoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/mvc/web/TodoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/ooo/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/ooo/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/ooo/CsvFormatterFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/ooo/CsvFormatterFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/ooo/CsvService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/ooo/CsvService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/ooo/Formatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/ooo/Formatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/ooo/NewCsvService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/ooo/NewCsvService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/ooo/PeriodSeparatedFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/ooo/PeriodSeparatedFormatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/ooo/PolyCsvService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/ooo/PolyCsvService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/ooo/ResearchPaper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/ooo/ResearchPaper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/ooo/SimpleCsvFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/ooo/SimpleCsvFormatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/ooo/challenge/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/ooo/challenge/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/ooo/challenge/CsvService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/ooo/challenge/CsvService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/ooo/challenge/Formatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/ooo/challenge/Formatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/ooo/challenge/NewCsvService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/ooo/challenge/NewCsvService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/ooo/challenge/PeriodSeparatedFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/ooo/challenge/PeriodSeparatedFormatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/ooo/challenge/ResearchPaper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/ooo/challenge/ResearchPaper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/ooo/challenge/SimpleCsvFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/ooo/challenge/SimpleCsvFormatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/challenge/tdd/JsonCsvConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/challenge/tdd/JsonCsvConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/simple-mvc-0.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techready.challenge.tdd.JsonCsvConverterTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.techready.challenge.tdd.JsonCsvConverterTest.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,19 +29,19 @@
     &quot;assignee&quot;: &quot;robertoctl&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/robertoctl/TechReady.git",
-    "accountId": "b4e761e7-9442-4408-b75a-a06f53f2d4fb"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/robertoctl/TechReady.git&quot;,
+    &quot;accountId&quot;: &quot;b4e761e7-9442-4408-b75a-a06f53f2d4fb&quot;
   }
-}]]></component>
+}</component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="true" />
   </component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -102,51 +55,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.App.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.com.challenge.ooo.challenge.App.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.JsonCsvConverterTest.shouldParseJsonIntoCsvRow.executor": "Run",
-    "JUnit.JsonCsvConverterTest.whenJsonIsEmpty_shouldThrowException.executor": "Run",
-    "JUnit.JsonCsvConverterTest.whenMissingFields_shouldThrowException.executor": "Run",
-    "JUnit.Main.shouldParseJsonIntoCsvRow.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.App.executor": "Run",
-    "Spring Boot.SimpleMvcApplication.executor": "Run",
-    "git-widget-placeholder": "main",
-    "go.import.settings.migrated": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/roberto.torres/Projects/TechReady/src/main/java/com/challenge/ooo/challenge",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/roberto.torres/Projects/TechReady/src/Main.java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.challenge.ooo.challenge.App.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.JsonCsvConverterTest.shouldParseJsonIntoCsvRow.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonCsvConverterTest.whenJsonIsEmpty_shouldThrowException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonCsvConverterTest.whenMissingFields_shouldThrowException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Main.shouldParseJsonIntoCsvRow.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.App.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SimpleMvcApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/roberto.torres/Projects/TechReady/src/main/java/com/challenge/ooo/challenge&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/roberto.torres/Projects/TechReady/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/challenge/ooo/challenge" />
@@ -300,7 +253,8 @@
       <workItem from="1758482669898" duration="8033000" />
       <workItem from="1758583559854" duration="2848000" />
       <workItem from="1758918744718" duration="19279000" />
-      <workItem from="1759341038718" duration="4471000" />
+      <workItem from="1759341038718" duration="8164000" />
+      <workItem from="1759782595271" duration="3526000" />
     </task>
     <task id="LOCAL-00001" summary="Adding gitignore">
       <option name="closed" value="true" />
@@ -318,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759356612020</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding gitignore">
+      <option name="closed" value="true" />
+      <created>1759356693481</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759356693481</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
