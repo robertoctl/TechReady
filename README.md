@@ -12,10 +12,3 @@ curl -s -X POST http://localhost:8080/todos -H "Content-Type: application/json" 
 API Practice
 
 http://simples-api-env.eba-y9pnm3jx.us-east-1.elasticbeanstalk.com/
-
-
-
-psql -v student_id=‘XXX' -f sql-practice-postgres.sql \                                                             
-"postgres://postgres:XOupZ478SrlYI5Ph2iPj@database-1-instance-1.cabdgjsudu2d.us-east-1.rds.amazonaws.com/TechReady"
-
-psql postgres://postgres:XOupZ478SrlYI5Ph2iPj@database-1-instance-1.cabdgjsudu2d.us-east-1.rds.amazonaws.com/TechReady
